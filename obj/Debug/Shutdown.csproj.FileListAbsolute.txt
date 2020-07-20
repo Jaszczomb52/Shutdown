@@ -1,0 +1,10 @@
+D:\projektyVisual\Shutdown\Shutdown\bin\Debug\Shutdown.exe.config
+D:\projektyVisual\Shutdown\Shutdown\bin\Debug\Shutdown.exe
+D:\projektyVisual\Shutdown\Shutdown\bin\Debug\Shutdown.pdb
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.csprojAssemblyReference.cache
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.Form1.resources
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.Properties.Resources.resources
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.GenerateResource.cache
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.csproj.CoreCompileInputs.cache
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.exe
+D:\projektyVisual\Shutdown\Shutdown\obj\Debug\Shutdown.pdb
